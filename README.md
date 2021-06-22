@@ -1,5 +1,4 @@
-#  Introducción a la robóticaen educaciónInfantil y Primaria:
-
+#  Introducción a la robótica y al pensamiento computacional en educación Infantil y Primaria
 
 ![](./images/Licencia_CC_peque.png)
 
@@ -10,7 +9,9 @@ Licencia CC by SA @javacasm
 - Introducción al pensamiento computacional en el entorno de juegos
 - Desarrollar estrategias de resolución de problemas
 - Aprender a programar mediante bloques
-- Uso de herramientas computacionales como elemento transversal
+- Usar transversalmente herramientas computacionales
+- Usar impresoras 3D
+- Hacer diseños 3D sencillos 
 
 ## Contenidos
 * El pensamiento computacional y los juegos
@@ -19,6 +20,8 @@ Licencia CC by SA @javacasm
 * Programando con bloques: Scratch
 * Placa Makey-Makey y su uso con Scratch
 * Robótica con micro:bit
+* Uso de impresoras 3D
+* Introducción al diseño 3D
 
 ## Niveles y herramientas
 
@@ -26,18 +29,21 @@ Ed. Infantil:
 * Uso de escornabot con tapetes adecuados
 * Uso de proyectos con makey-makey y scratch
 * Juegos de pensamiento computacional desconectado
+* Uso de piezas impresas en 3D
 
 Ed. Primaria - 1er ciclo
 * Uso de escornabot
 * Programación con Scratch Jr
 * Uso de makey-makey
 * Juegos de pensamiento computacional desconectado
+* Uso de piezas impresas en 3D
 
 
 Ed. Primaria - 2º ciclo
 * Uso y montaje de makey-makey 
 * Programación con Scratch
 * Juegos de pensamiento computacional desconectado
+* Introducción al diseño 3D
 
 
 Ed. Primaria - 3er ciclo
@@ -47,6 +53,7 @@ Ed. Primaria - 3er ciclo
 * Montaje de Escornabot
 * Juegos de pensamiento computacional desconectado
 * Diseño 3D con Tinkercad
+* Uso de impresoras 3D
 
 
 ## Herramientas
