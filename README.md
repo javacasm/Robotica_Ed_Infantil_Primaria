@@ -85,3 +85,7 @@ Ed. Primaria - 3er ciclo
 [Tinkercad](https://tinkercad.com)
 
 ![](./images/tinkercad.png)
+
+### Recursos
+
+[Propuesta con objetivos mínimos para cada nivel educativo de Intef](http://code.intef.es/wp-content/uploads/2018/10/Ponencia-sobre-Pensamiento-Computacional.-Informe-Final.pdf#page=65)
