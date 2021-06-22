@@ -59,7 +59,7 @@ Ed. Primaria - 3er ciclo
 
 ![](./images/escornabot.png)
 
-Tapetes para escornabot
+[Tapetes para escornabot](https://pablorubma.cc/escornabot/tableros-y-recursos/)
 
 ![](./images/alfabeto.png)
 
