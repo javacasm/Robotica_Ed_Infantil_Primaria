@@ -46,15 +46,16 @@ Ed. Primaria - 3er ciclo
 * Programación de scratch 
 * Montaje de Escornabot
 * Juegos de pensamiento computacional desconectado
+* Diseño 3D con Tinkercad
 
 
 ## Herramientas
 
-Pensamiento computacional desconectado
+[Pensamiento computacional desconectado](https://csunplugged.org/es/)
 
 ![](./images/codyRobycompleto-1-400x273.png)
 
-Escornabot
+[Escornabot](https://escornabot.com/es/index)
 
 ![](./images/escornabot.png)
 
@@ -62,14 +63,18 @@ Tapetes para escornabot
 
 ![](./images/alfabeto.png)
 
-micro:bit
+[micro:bit](http://microbit.org/)
 
 ![](./images/Incio_bloques.png)
 
-Scratch
+[Scratch](https://scratch.mit.edu/)
 
 ![](./images/RecorridoAndaluciaMapa.png)
 
-Scratch Jr.
+[Scratch Jr.](https://www.scratchjr.org/)
 
 ![](./images/ScratchJr.png)
+
+[Tinkercad](https://tinkercad.com)
+
+![](./images/tinkercad.png)
